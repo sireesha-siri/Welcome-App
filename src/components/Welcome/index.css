@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.welcome-container {
+  background-color: #1e293b;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Bree Serif';
+}
+
+.welcome-heading {
+  font-size: 70px;
+  color: #f0bb03;
+}
+
+.welcome-description {
+  font-size: 40px;
+  color: #ffffff;
+  margin-top: 0px;
+}
+
+.button-style {
+  border-radius: 10px;
+  height: 45px;
+  width: 100px;
+  color: #000000;
+  font-weight: bold;
+  border: none;
+  outline: none;
+}
